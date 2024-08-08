@@ -15,6 +15,7 @@ Se descargó una señal fisiológica de PhysioNet en este caso cu05(.dat y .hea)
 <div align="center">
   <p> Gráfica 1. Hidtograma de la señal cu05.</p>
 </div>
+
 #### 3. Evaluación de la Relación Señal-Ruido (SNR):
 La función snr calcula la relación señal-ruido (SNR), una métrica clave en el análisis de señales que mide la calidad de una señal en presencia de ruido. La SNR se expresa en decibelios (dB) y proporciona una medida de cuánto de la señal es útil en comparación con la cantidad de ruido que contiene. Para obtener dicha relación se calcula el potencial de la señal y el ruido y luego se aplica la formula:
 
