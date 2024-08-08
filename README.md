@@ -9,9 +9,10 @@ Se descargó una señal fisiológica de PhysioNet en este caso cu05(.dat y .hea)
 - Desviación Estándar: Se calculó la desviación estándar para medir la dispersión de los valores respecto a la media.
 - Coeficiente de Variación: Se determinó el coeficiente de variación para evaluar la relación entre la desviación estándar y la media.
 - Histogramas: Se creó un histograma manualmente para representar la distribución de los valores de la señal.
-
+![Ejemplo de Señal](file:///C:/Users/ASUS/Documents/1.png)
 #### 3. Evaluación de la Relación Señal-Ruido (SNR):
 - Ruido Gaussiano: Se añadió ruido gaussiano a la señal y se calculó el SNR para evaluar el impacto del ruido en la calidad de la señal.
+
 - Ruido Impulso: Se añadió ruido tipo impulso a la señal y se calculó el SNR.
 - Ruido Tipo Artefacto: Se añadió ruido tipo artefacto a la señal y se calculó el SNR.
 ### REQUISITOS
