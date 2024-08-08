@@ -61,3 +61,6 @@ La función snr calcula la relación señal-ruido (SNR), una métrica clave en e
 1. Descargar y guardar una señal fisiológica desde PhysioNet.
 2. Ejecutar el código en un entorno Python compatible (como Spyder, Google Colab, o cualquier IDE).
 3. Revisar y ajustar los parámetros del código según sea necesario para los diferentes tipos de ruido.
+
+### Contact information
+est.elizabeth.vill@unimilitar.edu.co
